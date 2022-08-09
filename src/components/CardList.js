@@ -18,6 +18,10 @@ const CardList = ({ robots }) => {
 	// 	</div>
 		
 	// ); 
+
+	// if(true) {
+	// 	throw new Error('Noooo');
+	// }
 	return (
 		<div>
 			{
