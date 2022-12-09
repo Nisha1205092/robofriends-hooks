@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import CardList from '../components/CardList';
 import Scroll from '../components/Scroll';
-import ErrorBoundary from './components/ErrorBoundary';
+import ErrorBoundary from '../components/ErrorBoundary';
 // import { robots } from './robots';
 import SearchBox from '../components/SearchBox';
 import './App.css';
