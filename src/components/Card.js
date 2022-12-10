@@ -1,4 +1,4 @@
-import React from 'react';
+	import React from 'react';
 
 //used {name, email, id} by destructuring (ES6) props
 
